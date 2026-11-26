@@ -1,0 +1,365 @@
+{
+  "reference": "2026-11-26",
+  "outcomes": [
+    {
+      "name": "clean-01",
+      "condition": "clean",
+      "expiry": "2026-06-29",
+      "status": "expired",
+      "actualStatus": "expired",
+      "actualExpiry": "2026-06-29",
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\n2026-06-29\n\nTRAINING ONLY"
+    },
+    {
+      "name": "clean-02",
+      "condition": "clean",
+      "expiry": "2026-11-01",
+      "status": "expired",
+      "actualStatus": "expired",
+      "actualExpiry": "2026-11-01",
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\n2026-11-01\n\nTRAINING ONLY"
+    },
+    {
+      "name": "clean-03",
+      "condition": "clean",
+      "expiry": "2026-11-26",
+      "status": "expiring",
+      "actualStatus": "expiring",
+      "actualExpiry": "2026-11-26",
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\n2026-11-26\n\nTRAINING ONLY"
+    },
+    {
+      "name": "clean-04",
+      "condition": "clean",
+      "expiry": "2026-12-09",
+      "status": "expiring",
+      "actualStatus": "expiring",
+      "actualExpiry": "2026-12-09",
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\n2026-12-09\n\nTRAINING ONLY"
+    },
+    {
+      "name": "clean-05",
+      "condition": "clean",
+      "expiry": "2026-12-25",
+      "status": "expiring",
+      "actualStatus": "expiring",
+      "actualExpiry": "2026-12-25",
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\n2026-12-25\n\nTRAINING ONLY"
+    },
+    {
+      "name": "clean-06",
+      "condition": "clean",
+      "expiry": "2026-12-27",
+      "status": "valid",
+      "actualStatus": "valid",
+      "actualExpiry": "2026-12-27",
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\n2026-12-27\n\nTRAINING ONLY"
+    },
+    {
+      "name": "clean-07",
+      "condition": "clean",
+      "expiry": "2027-03-18",
+      "status": "valid",
+      "actualStatus": "valid",
+      "actualExpiry": "2027-03-18",
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\n2027-03-18\n\nTRAINING ONLY"
+    },
+    {
+      "name": "clean-08",
+      "condition": "clean",
+      "expiry": "2027-12-21",
+      "status": "valid",
+      "actualStatus": "valid",
+      "actualExpiry": "2027-12-21",
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\n2027-12-21\n\nTRAINING ONLY"
+    },
+    {
+      "name": "tilted-01",
+      "condition": "tilted",
+      "expiry": "2026-06-29",
+      "status": "expired",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "cimen\n\ncXNTHET\n\ncA\n\nout\n\nNC\n\ng DIs©\n\nVE\n\npicle\n\noc’ 00%\n\nemo Fi\n\nEXPIRY\n\n-29\n\nne ONY\n\nRAIN!"
+    },
+    {
+      "name": "tilted-02",
+      "condition": "tilted",
+      "expiry": "2026-11-01",
+      "status": "expired",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPEC\n\nIMEN\n\nFRic\n\nEHICLE LICE\n\nPEMO RECORD\n\nMOCK-o9 1\n\nEXPiry DATE\n\nRAINING OnLy"
+    },
+    {
+      "name": "tilted-03",
+      "condition": "tilted",
+      "expiry": "2026-11-26",
+      "status": "expiring",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "YNTH\n\nECIMey\n\nAFRICA\n\nDEMO p\n\nE Dis\n\nCK-007\n\nIRy A\n\nTE\n\n“1]\n\n-26\n\nRAININ, ont"
+    },
+    {
+      "name": "tilted-04",
+      "condition": "tilted",
+      "expiry": "2026-12-09",
+      "status": "expiring",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPEC\n\nIMEN\n\nFRic\n\nEHICLE LICE\n\nPEMO RECORD\n\nMOCK-o9 1\n\nEXPiry DATE\n\nRAINING OnLy"
+    },
+    {
+      "name": "tilted-05",
+      "condition": "tilted",
+      "expiry": "2026-12-25",
+      "status": "expiring",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPEC\n\nIMEN\n\nFRic\n\nEHICLE LICE\n\nPEMO RECORD\n\nMOCK-o9 1\n\nEXPiry DATE\n\nRAINING OnLy"
+    },
+    {
+      "name": "tilted-06",
+      "condition": "tilted",
+      "expiry": "2026-12-27",
+      "status": "valid",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "ECIMEN\n\neYNTHETIC SP\n\nsouT\n\nFRICA\n\nLICENCE DISC\n\nmock 001\n\nDEMO\n\nRECORD\n\nexpIRY DATE\n\n2026-12°\n\nTRAINING ONE"
+    },
+    {
+      "name": "tilted-07",
+      "condition": "tilted",
+      "expiry": "2027-03-18",
+      "status": "valid",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "YNTH\n\nECIMey\n\nAFRICA\n\nDEMO p\n\nE Dis\n\nIRy\n\nCK-007\n\nATE\n\n27.\n\n03-19\n\nRAININ, ont"
+    },
+    {
+      "name": "tilted-08",
+      "condition": "tilted",
+      "expiry": "2027-12-21",
+      "status": "valid",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "ECIMEN\n\neYNTHETIC SP\n\nsouT\n\nFRICA\n\nLICENCE DISC\n\nmock 001\n\nDEMO\n\nRECORD\n\nexpIRY DATE\n\n2027-12°\n\nTRAINING ONE"
+    },
+    {
+      "name": "blur-01",
+      "condition": "blur",
+      "expiry": "2026-06-29",
+      "status": "expired",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "'<\n\nas\n\nSOwTw APEC A\n\nSeem ie\n\n=F\n\n_\n\n.\n\n_\n\n2026-06-29\n\n--\n\n~~"
+    },
+    {
+      "name": "blur-02",
+      "condition": "blur",
+      "expiry": "2026-11-01",
+      "status": "expired",
+      "actualStatus": "expired",
+      "actualExpiry": "2026-11-01",
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nEXPIRY DATE\n\n2026-11-01\n\nTRAINING ONLY"
+    },
+    {
+      "name": "blur-03",
+      "condition": "blur",
+      "expiry": "2026-11-26",
+      "status": "expiring",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "ed\n\n~ are\n\nt-\n\n=F\n\n2026-11-26\n\n7\n\n>"
+    },
+    {
+      "name": "blur-04",
+      "condition": "blur",
+      "expiry": "2026-12-09",
+      "status": "expiring",
+      "actualStatus": "expiring",
+      "actualExpiry": "2026-12-09",
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nEXPIRY DATE\n\n2026-12-09\n\nTRAINING ONLY"
+    },
+    {
+      "name": "blur-05",
+      "condition": "blur",
+      "expiry": "2026-12-25",
+      "status": "expiring",
+      "actualStatus": "expiring",
+      "actualExpiry": "2026-12-25",
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nEXPIRY DATE\n\n2026-12-25\n\nTRAINING ONLY"
+    },
+    {
+      "name": "blur-06",
+      "condition": "blur",
+      "expiry": "2026-12-27",
+      "status": "valid",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "‘rare\n\nt=\n\nSOUTH APRICA\n\nVEC LE LEME OOK\n\n‘sre\n\nare\n\n2026-12-27\n\nao!\n\n~"
+    },
+    {
+      "name": "blur-07",
+      "condition": "blur",
+      "expiry": "2027-03-18",
+      "status": "valid",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "|\n\nms\n\nSOUTH APROCA\n\nSeem ie\n\n“tue\n\n>\n\n-\n\n_\n\n2027-03-18\n\n--\n\n~~"
+    },
+    {
+      "name": "blur-08",
+      "condition": "blur",
+      "expiry": "2027-12-21",
+      "status": "valid",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETH SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\ntxPprmy DATE\n\n2027-12-21\n\nTRAMOING OMT"
+    },
+    {
+      "name": "glare-01",
+      "condition": "glare",
+      "expiry": "2026-06-29",
+      "status": "expired",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\nTRAINING ONLY"
+    },
+    {
+      "name": "glare-02",
+      "condition": "glare",
+      "expiry": "2026-11-01",
+      "status": "expired",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\nTRAINING ONLY"
+    },
+    {
+      "name": "glare-03",
+      "condition": "glare",
+      "expiry": "2026-11-26",
+      "status": "expiring",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\nTRAINING ONLY"
+    },
+    {
+      "name": "glare-04",
+      "condition": "glare",
+      "expiry": "2026-12-09",
+      "status": "expiring",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\nTRAINING ONLY"
+    },
+    {
+      "name": "glare-05",
+      "condition": "glare",
+      "expiry": "2026-12-25",
+      "status": "expiring",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\nTRAINING ONLY"
+    },
+    {
+      "name": "glare-06",
+      "condition": "glare",
+      "expiry": "2026-12-27",
+      "status": "valid",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\nTRAINING ONLY"
+    },
+    {
+      "name": "glare-07",
+      "condition": "glare",
+      "expiry": "2027-03-18",
+      "status": "valid",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\nTRAINING ONLY"
+    },
+    {
+      "name": "glare-08",
+      "condition": "glare",
+      "expiry": "2027-12-21",
+      "status": "valid",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\nTRAINING ONLY"
+    },
+    {
+      "name": "occluded-01",
+      "condition": "occluded",
+      "expiry": "2026-06-29",
+      "status": "review",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\nTRAINING ONLY"
+    },
+    {
+      "name": "occluded-02",
+      "condition": "occluded",
+      "expiry": "2026-11-01",
+      "status": "review",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\nTRAINING ONLY"
+    },
+    {
+      "name": "occluded-03",
+      "condition": "occluded",
+      "expiry": "2026-11-26",
+      "status": "review",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\nTRAINING ONLY"
+    },
+    {
+      "name": "occluded-04",
+      "condition": "occluded",
+      "expiry": "2026-12-09",
+      "status": "review",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\nTRAINING ONLY"
+    },
+    {
+      "name": "occluded-05",
+      "condition": "occluded",
+      "expiry": "2026-12-25",
+      "status": "review",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\nTRAINING ONLY"
+    },
+    {
+      "name": "occluded-06",
+      "condition": "occluded",
+      "expiry": "2026-12-27",
+      "status": "review",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\nTRAINING ONLY"
+    },
+    {
+      "name": "occluded-07",
+      "condition": "occluded",
+      "expiry": "2027-03-18",
+      "status": "review",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\nTRAINING ONLY"
+    },
+    {
+      "name": "occluded-08",
+      "condition": "occluded",
+      "expiry": "2027-12-21",
+      "status": "review",
+      "actualStatus": "review",
+      "actualExpiry": null,
+      "text": "SYNTHETIC SPECIMEN\n\nSOUTH AFRICA\n\nVEHICLE LICENCE DISC\n\nDEMO RECORD\n\nMOCK-001\n\nEXPIRY DATE\n\nTRAINING ONLY"
+    }
+  ]
+}
